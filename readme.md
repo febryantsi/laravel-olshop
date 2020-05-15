@@ -31,6 +31,3 @@ Example Laravel 5.4 Online Shop
 * Laporan statistik user terkini
 * Resize foto produk ketika upload
 * Dll
-
-## Thanks
-Thanks to **[Rahmat Awaludin](https://github.com/rawaludin/)**
